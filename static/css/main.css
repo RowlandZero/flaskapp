@@ -48,13 +48,13 @@ a {
 }
 
 .section-device {
-  float: right;
+  float: top;
   position: relative;
-  top: 65px;
+  top: 70px;
 }
 
 .section-device img {
-  width: 100px;
+  width: 150px;
 }
 
 .btn-primary {
